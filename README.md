@@ -10,7 +10,7 @@ I am not a programmer in js usually and I don't intend to go further into this l
 
 ------
 
-## GeneralUsage Agreement
+## General Usage Agreement
 * By using this you acknowledge that I will not respond to bugs, feature requests or support questions, as seen by above disclaimer
 * You agree to any flaws this code may have and acknowledge to put in the time to fix them yourself
 ------
